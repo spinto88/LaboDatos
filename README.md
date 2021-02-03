@@ -1,2 +1,3 @@
 # LaboDatos
-Notebooks del curso Laboratorio de Datos del 1C 2021, Departamento de Física, FCEN, UBA
+
+Notebooks del curso **Laboratorio de Datos** del 1° cuatrimestre 2021, departamento de física, FCEN, UBA.
